@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rasul3d/Rasuls-monsters/static/css/main.b194c1b6.css",
+    "main.js": "/rasul3d/Rasuls-monsters/static/js/main.e7f019b4.js",
+    "static/js/787.9d4b10ae.chunk.js": "/rasul3d/Rasuls-monsters/static/js/787.9d4b10ae.chunk.js",
+    "index.html": "/rasul3d/Rasuls-monsters/index.html",
+    "main.b194c1b6.css.map": "/rasul3d/Rasuls-monsters/static/css/main.b194c1b6.css.map",
+    "main.e7f019b4.js.map": "/rasul3d/Rasuls-monsters/static/js/main.e7f019b4.js.map",
+    "787.9d4b10ae.chunk.js.map": "/rasul3d/Rasuls-monsters/static/js/787.9d4b10ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b194c1b6.css",
+    "static/js/main.e7f019b4.js"
+  ]
+}
